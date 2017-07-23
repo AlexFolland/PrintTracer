@@ -1,5 +1,6 @@
 local oldprint = print
 print = function(text, ...)
+    text = tostring(text)
     for n=1,select('#', ...) do
         local e = select(n, ...)
         text = text.." "..tostring(e)
