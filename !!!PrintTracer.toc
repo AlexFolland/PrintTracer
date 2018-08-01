@@ -1,4 +1,4 @@
-## Interface: 70300
+## Interface: 80000
 ## Title: PrintTracer
 ## Notes: Traces the source of print calls
 ## Author: Alex Folland
