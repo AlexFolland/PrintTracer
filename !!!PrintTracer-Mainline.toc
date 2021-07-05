@@ -1,0 +1,6 @@
+## Interface: 90100
+## Title: PrintTracer
+## Notes: Traces the source of print calls
+## Author: Alex Folland
+
+PrintTracer.lua
